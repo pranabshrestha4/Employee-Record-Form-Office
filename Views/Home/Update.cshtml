@@ -1,0 +1,78 @@
+﻿<!-- Views/Home/Update.cshtml -->
+@{
+    ViewData["Title"] = "Update";
+}
+
+<!-- Confirmation.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update</title>
+    <style>
+        /* styles.css */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+        }
+
+        .logo {
+            max-width: 150px; /* Adjust the width as needed */
+            display: block; /* Ensures the logo behaves as a block element */
+            margin: 0 auto; /* Horizontally centers the logo within the container */
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* Add additional CSS styles for the container and other elements here. */
+
+        /* Style the "Return to Homepage" button */
+        .return-button-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .return-button {
+            display: block;
+            width: 38%;
+            padding: 10px;
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+            transition: background-color 0.3s ease;
+        }
+
+            .return-button:hover {
+                background-color: #2980b9;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="~/Content/Logo/logo.png" alt="Logo" class="logo">
+        <h2>Your employee record has been Successfully Updated.</h2>
+        <div class="return-button-container">
+            <a href="https://localhost:44325/" class="return-button">Return to Homepage</a>
+        </div>
+    </div>
+</body>
+</html>

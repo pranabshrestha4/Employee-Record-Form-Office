@@ -1,0 +1,102 @@
+﻿@model EmployeeRecordFourm.Models.Employee
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delete Employee</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 1.0);
+        }
+
+        .logo {
+            max-width: 150px; /* Adjust the width as needed */
+            display: block; /* Ensures the logo behaves as a block element */
+            margin: 0 auto; /* Horizontally centers the logo within the container */
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .employee-details {
+            text-align: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #ccc;
+        }
+
+            .employee-details p {
+                margin: 5px;
+            }
+
+        .buttons-container {
+            display: flex;
+            justify-content: space-evenly;
+            padding-top: 20px;
+        }
+
+        .delete-button,
+        .cancel-button {
+            display: inline-block;
+            padding: 10px 20px;
+            border: none;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 1.0);
+            font-size: 18px;
+        }
+
+        .delete-button {
+            background-color: #e74c3c;
+        }
+
+            .delete-button:hover {
+                background-color: #c0392b;
+            }
+
+        .cancel-button {
+            background-color: #3498db;
+        }
+
+            .cancel-button:hover {
+                background-color: #2980b9;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="~/Content/Logo/logo.png" alt="Logo" class="logo">
+        <h2>Are you sure you want to delete this employee?</h2>
+        <div class="employee-details">
+            <p>ID: @Model.Id</p>
+            <p>Name: @Model.Name</p>
+        </div>
+        <div class="buttons-container">
+            @using (Html.BeginForm("DeleteConfirmed", "Home", new { id = Model.Id }, FormMethod.Post))
+            {
+                <button type="submit" class="delete-button">Delete</button>
+            }
+
+            <a href="@Url.Action("ViewDetails", "Home")" class="cancel-button">Cancel</a>
+        </div>
+    </div>
+</body>
+</html>

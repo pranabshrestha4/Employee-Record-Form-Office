@@ -1,0 +1,249 @@
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EmployeeRecordFourm.dll.config
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EmployeeRecordFourm.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EmployeeRecordFourm.pdb
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csc.exe
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csc.exe.config
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csc.rsp
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csi.exe
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csi.exe.config
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csi.rsp
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.AppContext.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Console.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Net.Http.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\vbc.exe
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\vbc.exe.config
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\vbc.rsp
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Antlr3.Runtime.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Newtonsoft.Json.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Helpers.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Mvc.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Optimization.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Razor.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\WebGrease.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Helpers.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Mvc.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Optimization.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Razor.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Newtonsoft.Json.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Antlr3.Runtime.pdb
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.AssemblyReference.cache
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.CoreCompileInputs.cache
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.CopyComplete
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.pdb
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.SqlServer.dll
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.xml
+C:\Users\Pranab Shrestha\Desktop\.net pratice\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.SqlServer.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EmployeeRecordFourm.dll.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EmployeeRecordFourm.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EmployeeRecordFourm.pdb
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csc.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csc.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csc.rsp
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csi.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csi.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\csi.rsp
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.AppContext.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Console.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Net.Http.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\vbc.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\vbc.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\vbc.rsp
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Antlr3.Runtime.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.SqlServer.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Newtonsoft.Json.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Helpers.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Mvc.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Optimization.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Razor.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\WebGrease.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\EntityFramework.SqlServer.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Helpers.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Mvc.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Optimization.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.Razor.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Newtonsoft.Json.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Antlr3.Runtime.pdb
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.AssemblyReference.cache
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.CoreCompileInputs.cache
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.CopyComplete
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.pdb
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EmployeeRecordFourm.dll.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EmployeeRecordFourm.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EmployeeRecordFourm.pdb
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\csc.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\csc.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\csc.rsp
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\csi.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\csi.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\csi.rsp
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.AppContext.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Console.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Net.Http.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\vbc.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\vbc.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\vbc.rsp
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Antlr3.Runtime.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EntityFramework.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EntityFramework.SqlServer.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Newtonsoft.Json.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Helpers.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Mvc.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Optimization.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Razor.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.WebPages.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\WebGrease.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EntityFramework.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\EntityFramework.SqlServer.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Helpers.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Mvc.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Optimization.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.Razor.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.WebPages.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Newtonsoft.Json.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Antlr3.Runtime.pdb
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.AssemblyReference.cache
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.CoreCompileInputs.cache
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.csproj.CopyComplete
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.dll
+C:\Users\Pranab Shrestha\Desktop\EmployeeRecordFourm12\EmployeeRecordFourm\obj\Debug\EmployeeRecordFourm.pdb

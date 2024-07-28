@@ -1,0 +1,57 @@
+﻿@model EmployeeRecordFourm.Models.Employee
+@Html.ValidationSummary()
+@using System.Web.Mvc
+
+@{
+    ViewBag.Title = "Employee Record Form";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Employee Record Form </title>
+    <link rel="stylesheet" href="~/Content/css/styles.css" />
+</head>
+<body>
+    <div class="container">
+        <img src="~/Content/Logo/logo.png" alt="Logo" class="logo" />
+        <h2> Employee Record Form </h2>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <label for="name"> Name: </label>
+            @Html.TextBox("Name", null, new { id = "name", required = "required" })
+
+            <label for="address"> Address: </label>
+            @Html.TextBox("Address", null, new { id = "address", required = "required" })
+
+            <label for="contact"> Contact: </label>
+            @Html.TextBox("Contact", null, new { id = "Contact", type = "number", required = "required" })
+
+            <label for="email"> Email: </label>
+            @Html.TextBox("Email", null, new { id = "email", type = "email", required = "required" })
+
+            <label for="designation"> Designation: </label>
+            @Html.TextBox("Designation", null, new { id = "designation", required = "required" })
+
+            <label for="salary"> Salary: </label>
+            @Html.TextBox("Salary", null, new { id = "salary", type = "number", required = "required" })
+
+            <label for="emergencycontact"> Emergency Contact: </label>
+            @Html.TextBox("EmergencyContact", null, new { id = "emergencyContact", type = "number", required = "required" })
+
+            <label for="hireDate"> Hire Date: </label>
+            @Html.TextBox("HireDate", null, new { id = "hireDate", type = "date", required = "required" })
+
+            <label for="photo"> Photo: </label>
+            @Html.TextBox("PhotoFile", null, new { id = "photo", type = "file", accept = ".jpg, .jpeg, .png" })
+
+            <div class="buttons-container">
+                <button type="submit" class="submit-button"> Submit </button>
+                <button type="button" class="view-details-button" onclick="location.href='@Url.Action("ViewDetails", "Home")'">View Details</button>
+            </div>
+         }
+    </div>
+</body>
+</html>
+

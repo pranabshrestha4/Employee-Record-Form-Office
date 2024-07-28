@@ -1,0 +1,65 @@
+﻿@model EmployeeRecordFourm.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit Employee Details";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/Content/css/style2.css">
+</head>
+<body>
+    <div class="container">
+        <img src="~/Content/Logo/logo.png" alt="Logo" class="logo">
+        <h2>@ViewData["Title"]</h2>
+        @using (Html.BeginForm("Edit", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.HiddenFor(model => model.Id)
+            <div class="form-group">
+                <label for="name">Name:</label>
+                @Html.TextBoxFor(model => model.Name, new { type = "text", id = "name" })
+            </div>
+            <div class="form-group">
+                <label for="address">Address:</label>
+                @Html.TextBoxFor(model => model.Address, new { type = "text", id = "address" })
+            </div>
+            <div class="form-group">
+                <label for="contact">Contact:</label>
+                @Html.TextBoxFor(model => model.Contact, new { type = "text", id = "contact" })
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                @Html.TextBoxFor(model => model.Email, new { type = "email", id = "email" })
+            </div>
+            <div class="form-group">
+                <label for="designation">Designation:</label>
+                @Html.TextBoxFor(model => model.Designation, new { type = "text", id = "designation" })
+            </div>
+            <div class="form-group">
+                <label for="salary">Salary:</label>
+                @Html.TextBoxFor(model => model.Salary, new { type = "number", id = "salary" })
+            </div>
+            <div class="form-group">
+                <label for="emergencyContact">Emergency Contact:</label>
+                @Html.TextBoxFor(model => model.EmergencyContact, new { type = "text", id = "emergencyContact" })
+            </div>
+
+            <div class="form-group">
+                <label for="hireDate">Hire Date:</label>
+                @Html.TextBoxFor(model => model.HireDate, new { id = "hireDate" })
+            </div>
+
+            <div class="form-group">
+                <label for="photo">Photo:</label>
+                @Html.TextBoxFor(model => model.PhotoFile, new { id = "photo", type = "file", accept = ".jpg, .jpeg, .png" })
+            </div>
+
+            <div class="form-group center">
+                <button type="submit" value="Save"> Save Changes</button>
+            </div>
+        }
+    </div>
+</body>
+</html>

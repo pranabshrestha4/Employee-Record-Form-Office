@@ -1,0 +1,142 @@
+﻿@model  EmployeeRecordFourm.Models.EmployeePaginationViewModel
+    
+
+@{
+    ViewBag.Title = "ViewDetails";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Details</title>
+    <link rel="stylesheet" href="~/Content/css/style1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .edit-button {
+            text-decoration: none;
+        }
+
+        .delete-button {
+            text-decoration: none;
+        }
+
+        .employee-photo {
+            width: 80px;
+            height: 80px;
+        }
+
+        .search-bar {
+            border: 100px solid black;
+        }
+
+        /* Pagination Styles */
+        .pagination {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+            .pagination a {
+                display: inline-block;
+                padding: 5px 10px;
+                margin-right: 5px;
+                border: 1px solid #ccc;
+                text-decoration: none;
+                color: #333;
+                background-color: #f8f8f8;
+                border-radius: 4px;
+                transition: background-color 0.3s ease;
+            }
+
+                .pagination a:hover {
+                    background-color: #ddd;
+                }
+
+            .pagination span {
+                display: inline-block;
+                padding: 5px 10px;
+                margin-right: 5px;
+                background-color: #333;
+                color: #fff;
+                border-radius: 4px;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="~/Content/Logo/logo.png" alt="Logo" class="logo">
+        <div class="search-container">
+            <div class="header">Employee Records</div>
+            @using (Html.BeginForm("ViewDetails", "Home", FormMethod.Get))
+            {
+                @Html.TextBox("searchQuery", null, new { id = "Contact", placeholder = "Search by Contact", required = "required", @class = "search-bar" })
+                <button type="submit" class="search-button"><i class="fa fa-search"></i></button>
+            }
+        </div>
+        <div class="table-container">
+            <table>
+                <tr>
+                    <th> ID </th>
+                    <th> Photo </th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Contact</th>
+                    <th>Email</th>
+                    <th>Designation</th>
+                    <th>Salary</th>
+                    <th>Emergency Contact</th>
+                    <th>Hire Date</th>
+                    <th> Actions </th>
+                </tr>
+                @foreach (var employee in Model.Employees)
+                {
+                    <tr>
+                        <td>@employee.Id</td>
+                        <td>
+                            <!-- Display the photo using an img tag -->
+                            <img src="@employee.PhotoUrl" alt="@employee.Name" class="employee-photo" />
+                        </td>
+                        <td>@employee.Name</td>
+                        <td>@employee.Address</td>
+                        <td>@employee.Contact</td>
+                        <td>@employee.Email</td>
+                        <td>@employee.Designation</td>
+                        <td>@employee.Salary</td>
+                        <td>@employee.EmergencyContact</td>
+                        <td>@employee.HireDate.ToString("yyyy-MM-dd")</td>
+                        <td>
+                            <div class="actions-container">
+                                <a href="@Url.Action("Edit", "Home", new { id = employee.Id })" class="edit-button">Edit</a>
+                                <span style="margin: 0 8px;"></span>
+                                <a href="@Url.Action("Delete", "Home", new { id = employee.Id })" class="delete-button">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </table>
+
+            <!-- Add pagination controls here -->
+            <div class="pagination">
+                @for (int i = 1; i <= Model.TotalItems / Model.PageSize + 5; i++)
+                {
+                    if (i == Model.PageNumber)
+                    {
+                        <span>@i</span>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("ViewDetails", "Home", new { page = i, pageSize = Model.PageSize, searchQuery = Request.QueryString["searchQuery"] })">@i</a>
+                    }
+                }
+            </div>
+
+        </div>
+
+        <div class="buttons-container">
+            <a href="@Url.Action("AddEmployee", "Home")" class="add-button">Add Employee</a>
+        </div>
+    </div>
+</body>
+</html>
